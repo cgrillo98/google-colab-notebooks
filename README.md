@@ -9,7 +9,7 @@ Check out the corresponding medium blog post [Object Detection Using Yolo in Goo
 
 ## Mask R-CNN for Self Driving Cars
 
-Check out the corresponding medium blog post [Mask R-CNN for Self Driving Cars 🚗](https://medium.com/@abhinav.sagar/mask-r-cnn-for-self-driving-cars-7d254f3c7b3a).
+Check out the corresponding medium blog post [Mask R-CNN for Self Driving Cars](https://medium.com/@abhinav.sagar/mask-r-cnn-for-self-driving-cars-7d254f3c7b3a).
 
 ## Pedestrian Tracking in Real Time Using YOLOv3
 
