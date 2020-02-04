@@ -1,6 +1,8 @@
 # Google-Colab-notebooks
 Sample Google Colab notebooks
 
+## If this repository helps you in anyway, show your love :heart: by putting a :star: on this project :v:
+
 Check out the corresponding medium blog post [https://towardsdatascience.com/one-stop-guide-to-google-colab-d67c94d30516](https://towardsdatascience.com/one-stop-guide-to-google-colab-d67c94d30516) for getting started with google colab.
 
 ## Object Detection Using Yolo in Google Colab
