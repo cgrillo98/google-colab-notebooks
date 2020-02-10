@@ -16,3 +16,13 @@ Check out the corresponding medium blog post [https://towardsdatascience.com/mas
 ## Pedestrian Tracking in Real Time Using YOLOv3
 
 Check out the corresponding medium blog post [https://towardsdatascience.com/pedestrian-tracking-in-real-time-using-yolov3-33439125efdf](https://towardsdatascience.com/pedestrian-tracking-in-real-time-using-yolov3-33439125efdf).
+
+## References
+
+1. https://pjreddie.com/media/files/papers/yolo.pdf
+
+2. https://arxiv.org/pdf/1703.06870
+
+3. https://github.com/Qidian213/deep_sort_yolov3
+
+4. http://www2.informatik.uni-freiburg.de/~spinello/luberIROS11.pdf
