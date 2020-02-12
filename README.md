@@ -37,7 +37,7 @@ Check out the corresponding medium blog post [https://towardsdatascience.com/ped
 ```
 @misc{Abhinav:2020,
   Author = {Abhinav Sagar},
-  Title = {Pedestrian detection using Non Maximum Suppression},
+  Title = {Google-Colab-notebooks},
   Year = {2020},
   Publisher = {GitHub},
   Journal = {GitHub repository},
