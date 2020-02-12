@@ -31,3 +31,16 @@ Check out the corresponding medium blog post [https://towardsdatascience.com/ped
 3. https://github.com/Qidian213/deep_sort_yolov3
 
 4. http://www2.informatik.uni-freiburg.de/~spinello/luberIROS11.pdf
+
+Citing
+
+```
+@misc{Abhinav:2020,
+  Author = {Abhinav Sagar},
+  Title = {Pedestrian detection using Non Maximum Suppression},
+  Year = {2020},
+  Publisher = {GitHub},
+  Journal = {GitHub repository},
+  Howpublished = {\url{https://github.com/abhinavsagar/Pedestrian-detection}}
+}
+```
