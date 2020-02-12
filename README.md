@@ -32,7 +32,7 @@ Check out the corresponding medium blog post [https://towardsdatascience.com/ped
 
 4. http://www2.informatik.uni-freiburg.de/~spinello/luberIROS11.pdf
 
-Citing
+## Citing
 
 ```
 @misc{Abhinav:2020,
@@ -41,6 +41,6 @@ Citing
   Year = {2020},
   Publisher = {GitHub},
   Journal = {GitHub repository},
-  Howpublished = {\url{https://github.com/abhinavsagar/Pedestrian-detection}}
+  Howpublished = {\url{https://github.com/abhinavsagar/google-colab-notebooks}}
 }
 ```
